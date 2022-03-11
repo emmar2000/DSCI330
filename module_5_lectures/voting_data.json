@@ -1,0 +1,251 @@
+{
+    "state": "Alaska",
+    "returned-mail-ballots": 113307,
+    "mail-ballot-requests": 161061
+}{
+    "state": "Alabama",
+    "mail-ballots-returned": 221635,
+    "requested-mail-ballots": 286488
+}{
+    "state": "Arkansas",
+    "total-voted": 686133,
+    "in-person-votes": 583114,
+    "returned-mail-ballots": 103019,
+    "requested-mail-ballots": 129653
+}{
+    "state": "Arizona",
+    "mail-ballots-returned": 1980689,
+    "requested-mail-ballots": 3353527
+}{
+    "state": "California",
+    "returned-mail-ballots": 8478869,
+    "mail-ballot-requests": 21887013
+}{
+    "state": "Colorado",
+    "section": 2082134,
+    "total-voted": 2082134,
+    "in-person-early-vote": 22346,
+    "mail-ballots-returned-and-accepted": 2059788,
+    "requested-mail-ballots": 4111226
+}{
+    "state": "Connecticut",
+    "mail-ballots-returned": 545246,
+    "requested-mail-ballots": 692110
+}{
+    "state": "District of Columbia",
+    "section": 146192,
+    "mail-ballots-returned": 146192,
+    "requested-mail-ballots": 504043
+}{
+    "state": "Delaware",
+    "returned-mail-ballots": 136401,
+    "mail-ballot-requests": 182808
+}{
+    "state": "Florida",
+    "total-voted": 7380071,
+    "in-person-votes": 3161046
+}{
+    "state": "Georgia",
+    "total-voted": 3426080,
+    "in-person-early-votes": 2314407,
+    "mail-ballots-returned-and-accepted": 1111673,
+    "mail-ballots-rejected": 1147,
+    "mail-ballots-requested": 1775148
+}{
+    "state": "Hawaii",
+    "mail-ballots-returned": 380000,
+    "mail-ballots-requested": 795248
+}{
+    "state": "Iowa",
+    "mail-ballots-returned-and-accepted-by-party-registration": 815921,
+    "mail-ballots-rejected-by-party-registration": 1568,
+    "requested-mail-ballots": 916218
+}{
+    "state": "Idaho",
+    "returned-mail-ballots": 148473,
+    "mail-ballot-requests": 181066
+}{
+    "state": "Illinois",
+    "total-in-person-early-and-returned-mail-ballots": 2585287,
+    "in-person-early-votes": 1248203,
+    "returned-mail-ballots": 1337084,
+    "mail-ballot-requests": 2348328
+}{
+    "state": "Indiana",
+    "section": 1382285,
+    "in-person-early-votes": 915902,
+    "mail-ballots-returned": 466383,
+    "mail-ballots-requested": 577962
+}{
+    "state": "Kansas",
+    "total-voted": 513466,
+    "in-person-votes": 195416,
+    "mail-ballots-returned": 318050,
+    "requested-mail-ballots": 504682
+}{
+    "state": "Kentucky",
+    "total-voted": 1050154,
+    "in-person-votes": 529529,
+    "returned-mail-ballots": 520625,
+    "mail-ballot-requests": 689233
+}{
+    "state": "Louisiana",
+    "total-voted": 967751,
+    "in-person-votes": 817954,
+    "mail-ballots-returned": 149797
+}{
+    "state": "Massachusetts",
+    "total-voted": 1973661,
+    "in-person-votes": 760922,
+    "mail-ballots-returned": 1212739,
+    "requested-mail-ballots": 2375893
+}{
+    "state": "Maryland",
+    "total-voted": 1580668,
+    "in-person-votes": 451514,
+    "mail-ballots-returned": 1580668,
+    "sent-mail-ballots": 1680424
+}{
+    "state": "Maine",
+    "returned-mail-ballots": 417189,
+    "mail-ballot-requests": 485872
+}{
+    "state": "Michigan",
+    "returned-and-accepted-mail-ballots": 2338417,
+    "rejected-mail-ballots": 1567,
+    "requested-mail-ballots": 3135338
+}{
+    "state": "Minnesota",
+    "total-early-vote": 1186522,
+    "mail-ballots-requested": 1765327
+}{
+    "state": "Missouri",
+    "returned-mail-ballots": 628395,
+    "mail-ballot-requests": 729600
+}{
+    "state": "Mississippi",
+    "returned-mail-ballots": 142591,
+    "mail-ballot-requests": 169087
+}{
+    "state": "Montana",
+    "returned-mail-ballots": 443344,
+    "mail-ballots-sent": 650831
+}{
+    "state": "North Carolina",
+    "total-voted": 3867846,
+    "in-person-votes": 3015833,
+    "returned-and-accepted-mail-ballots": 852013,
+    "rejected": 7803,
+    "requested": 1451941
+}{
+    "state": "North Dakota",
+    "total-early-vote": 203324,
+    "in-person-early-vote": 48948,
+    "returned-mail-ballots": 154376,
+    "mail-ballot-requests": 210111
+}{
+    "state": "Nebraska",
+    "section": 435112,
+    "mail-ballots-returned-and-accepted": 435112,
+    "requested-mail-ballots": 533240
+}{
+    "state": "New Hampshire",
+    "returned-mail-ballots": 181577,
+    "mail-ballot-requests": 225002
+}{
+    "state": "New Jersey",
+    "section": 2778273,
+    "mail-ballots-returned": 2778273,
+    "requested-mail-ballots": 6053859
+}{
+    "state": "New Mexico",
+    "total-voted": 667790,
+    "in-person-votes": 375724,
+    "mail-ballots-returned": 292066,
+    "requested-mail-ballots": 384162
+}{
+    "state": "Nevada",
+    "total-voted": 802250,
+    "in-person-votes": 379000,
+    "returned-mail-ballots": 423250,
+    "mail-ballot-requests": 1796992
+}{
+    "state": "New York",
+    "total-voted": 2204656,
+    "in-person-voted": 1361960,
+    "mail-ballots-returned": 842696,
+    "mail-ballots-requested": 2370201
+}{
+    "state": "Ohio",
+    "mail-ballots-returned": 2457286,
+    "mail-ballots-requested": 2928629
+}{
+    "state": "Oklahoma",
+    "mail-ballots-returned": 231569,
+    "requested-mail-ballots": 352377
+}{
+    "state": "Oregon",
+    "mail-ballots-returned": 1541944,
+    "requested-mail-ballots": 2949600
+}{
+    "state": "Pennsylvania",
+    "mail-ballots-returned": 2112995,
+    "mail-ballots-rejected": 566
+}{
+    "state": "Rhode Island",
+    "total-voted": 238499,
+    "in-person-votes": 102426,
+    "returned-mail-ballots": 136073,
+    "mail-ballot-requests": 180148
+}{
+    "state": "South Carolina",
+    "mail-ballots-returned": 1051065
+}{
+    "state": "South Dakota",
+    "total-voted": 152244,
+    "total-in-person-early": 50641,
+    "returned-mail-ballots": 101603,
+    "mail-ballot-requests": 132495
+}{
+    "state": "Tennessee",
+    "total-voted": 1962900,
+    "in-person-votes": 1766982,
+    "returned-mail-ballots": 195918
+}{
+    "state": "Texas",
+    "total-voted": 8449858,
+    "in-person-votes": 7543086,
+    "returned-mail-ballots": 906772
+}{
+    "state": "Utah",
+    "returned-mail-ballots": 752243,
+    "mail-ballot-requests": 1640707
+}{
+    "state": "Virginia",
+    "section": 2307928,
+    "in-person-early-votes": 1460208,
+    "mail-ballots-returned": 847720,
+    "mail-ballots-requested": 1141614
+}{
+    "state": "Vermont",
+    "returned-mail-ballots": 227705,
+    "mail-ballot-requests": 451700
+}{
+    "state": "Washington",
+    "returned-mail-ballots": 2759806,
+    "mail-ballot-requests": 4868441
+}{
+    "state": "Wisconsin",
+    "total-voted": 1642212,
+    "in-person-votes": 476706,
+    "mail-ballots-returned": 1165506,
+    "mail-ballots-requested": 1425799
+}{
+    "state": "West Virginia",
+    "returned-mail-ballots": 124494,
+    "mail-ballot-requests": 152789
+}{
+    "state": "Wyoming",
+    "total-early-vote": 101248,
+    "requested-mail-ballots": 119927
+}
